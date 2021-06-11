@@ -1,0 +1,10 @@
+table {
+  border-collapse: collapse;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+
+.scrollTable {
+  overflow-y: auto; /* Trigger vertical scroll    */
+  overflow-x: auto; /* Hide the horizontal scroll */
+}
